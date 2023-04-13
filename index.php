@@ -8,10 +8,12 @@
             Facebook helps you connect with your friends
         </div>
         <div>
-            <input /> 
-            <input />
-            <button>Log in</button>
-            <a>Forgot password</a>
+            <form>
+                <input type="text" name="name" id="name" placeholder="Email address or phone number" required/> 
+                <input type="password" name="password" id="password" placeholder="Password" required/>
+                <input type="submit" value="Log in" />
+                <a href="">Forgotten password</a>
+            </form>
         </div>
     </body>
 </html>
