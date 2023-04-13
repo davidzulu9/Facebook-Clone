@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "Facebook Clone", "Facebook Clone.phpproj", "{754CF34D-B490-45B6-8560-B91561B4FD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754CF34D-B490-45B6-8560-B91561B4FD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754CF34D-B490-45B6-8560-B91561B4FD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754CF34D-B490-45B6-8560-B91561B4FD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754CF34D-B490-45B6-8560-B91561B4FD16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F735BF-A0D3-41E7-82FE-55653D79E1B5}
+	EndGlobalSection
+EndGlobal
